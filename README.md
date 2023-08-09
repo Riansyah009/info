@@ -1,3 +1,3 @@
 # MyBot
 
-Website untuk menginformasikan update nomor bot kepada user setia sansekai bot.
+Gomen bang yusril gua pake website nya:V
